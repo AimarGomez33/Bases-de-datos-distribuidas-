@@ -1,0 +1,1 @@
+{"options":{"viewOn":"warehouse","pipeline":[{"$project":{"manager":{"$numberInt":"1"},"street":{"$numberInt":"1"},"number":{"$numberInt":"1"},"phone":{"$numberInt":"1"}}}]},"indexes":[],"collectionName":"view 4","type":"view"}

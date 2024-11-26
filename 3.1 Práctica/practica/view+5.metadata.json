@@ -1,0 +1,1 @@
+{"options":{"viewOn":"supplier","pipeline":[{"$project":{"contact":{"$numberInt":"1"},"name":{"$numberInt":"1"},"phone":{"$numberInt":"1"},"email":{"$numberInt":"1"}}}]},"indexes":[],"collectionName":"view 5","type":"view"}
